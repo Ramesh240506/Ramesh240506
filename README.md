@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Ramesh P — Coding Tomorrow’s Solutions, Today</h1>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ4MDM4NDAsIm5iZiI6MTc1NDgwMzU0MCwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEwVDA1MjU0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxY2VhMTU0NGRlMzA0ZjQzZTQ0YmNjNGY1ZDRmNDA1ZTRhMjNjN2ViZjU2YTFiNzA2ODNiZjg0MzMxNjhiMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FCGfq2e24472uc9ygDFWH9nAt-ENcvPufnpTex8D8fM" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300"/>
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@
 ## 🚀 Current Missions
 
 ### 🔨 Ongoing
-- 🔗 [JobBoard](https://github.com/Ramesh240506/jobboard)
+- 🔗 [JobBoard](https://github.com/Ramesh240506/jobsearch)
 
 ### ✅ Completed Missions
 - 🔗 [Employee Management](https://github.com/Ramesh240506/Employee-Management)

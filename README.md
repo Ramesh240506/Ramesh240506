@@ -42,15 +42,6 @@
 
 ---
 
-## 🏆 Achievements & 🔥 Activity Meter
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramesh240506&theme=tokyonight&margin-w=10&no-frame=true" height="140"/>
-  <img src="https://streak-stats.demolab.com/?user=ramesh240506&theme=tokyonight&hide_border=true" height="140"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">

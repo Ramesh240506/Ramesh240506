@@ -52,19 +52,19 @@
 ---
 
 ## 📜 Current Learning
-- 🤖 Selenium Automation Testing
+- ⚡ **Express.js**
+
 
 ## 📘 Upcoming Quest
-- ⚡ **Node.js**
 - 🍃 **MongoDB**
 ---
 
 ## 🚀 Current Missions
 
 ### 🔨 Ongoing
-- 🔗 [JobBoard](https://github.com/Ramesh240506/jobsearch)
-
+- 
 ### ✅ Completed Missions
+- 🔗 [JobBoard](https://github.com/Ramesh240506/jobsearch)
 - 🔗 [Employee Management](https://github.com/Ramesh240506/Employee-Management)
 
 ---

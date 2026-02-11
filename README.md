@@ -56,18 +56,11 @@
 
 ---
 
-## 📜 Current Learning
-- ⚡ **Express.js**
-
-
-## 📘 Upcoming Quest
-- 🍃 **MongoDB**
----
-
 ## 🚀 Current Missions
 
 ### 🔨 Ongoing
-- 
+- 🔗 [SkillSwap](https://github.com/Ramesh240506/SkillSwap) – MERN-based skill exchange platform featuring JWT authentication, dynamic availability management, multi-session booking system, and credit-based transactions.
+
 ### ✅ Completed Missions
 - 🔗 [JobBoard](https://github.com/Ramesh240506/jobsearch)
 - 🔗 [Employee Management](https://github.com/Ramesh240506/Employee-Management)
